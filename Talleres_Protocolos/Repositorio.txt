@@ -1,0 +1,9 @@
+Enlace del Repositorio:
+
+https://github.com/SebastianMancera/Teleinformatica1-2020-3/tree/main/Talleres_Protocolos
+
+Talleres:
+-Herramienta GNS3  PROTOCOLO  IS- -IS   V4 Y v6
+-Herramienta Packet tracer PROTOCOLO ospf  v4 y v6
+-Herramienta NETSIM PROTOCOLO EIGRP: v4  y v6
+-Herramienta OPNET PROTOCOLO BGP V4 y V6
